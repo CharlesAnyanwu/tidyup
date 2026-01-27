@@ -1,0 +1,66 @@
+Hi Ramin,
+
+Thanks for the details and the logo—it looks great. I have a clear picture of what you're going for.
+
+Project Scope:
+- Single-page landing website for Jacksonville and surrounding counties
+- Sections: About/Mission, How It Works (Prep, Recycle, Notify & Collect), Service Area, Contact Form
+- Color scheme based on your logo (green bag, yellow/gold glove, black accents)
+- Mobile-friendly, fast-loading, professional design
+- Contact form that sends inquiries directly to your email
+
+Preview Links:
+I've put together a few design directions for you to review. Take a look and let me know which style resonates most with your brand:
+
+- Option A (Industrial Clean): https://tidyup-valet.netlify.app
+- Option B (Light & Clean): https://tidyup-option-b-light.netlify.app
+- Option C (Bold & Modern): https://tidyup-option-c-bold.netlify.app
+- Option D (Premium/Luxury): https://tidyup-option-d-premium.netlify.app
+
+Each option uses your brand colors and includes all the sections we discussed. The contact forms are fully functional once we connect your email.
+
+Cost Breakdown:
+| Item                          | Cost                                                        |
+|-------------------------------|-------------------------------------------------------------|
+| Website Design & Development  | $800                                                        |
+| Domain Registration (1 year)  | ~$12-15 (you purchase, or I can handle)                     |
+| Hosting                       | $0 (Netlify free tier - reliable, fast, includes SSL)       |
+| Contact Form Setup            | Included                                                    |
+| Basic SEO Setup               | Included                                                    |
+| Total                         | $800 + domain                                               |
+
+Why Custom vs. Template Sites:
+I know you can find cheaper options online for $300 or so. Here's the difference:
+
+Those $300 sites are templates with monthly platform fees ($16-50/month). After 2 years, you've paid $700-1,500 and you're still locked into their platform.
+
+What I'm building for you:
+- Custom code you own outright (no platform lock-in)
+- $0/month hosting forever (Netlify free tier)
+- 4 design options to choose from (not just one template)
+- Hand-coded for speed and search engines
+- Easy to update or modify later
+
+The math: A "cheap" site at $300 + $25/month costs $900 by year 2. My site costs $800 total, and you own everything.
+
+Optional Add-ons:
+- Google Business Profile setup: +$100
+- Monthly maintenance (content updates, monitoring): $50/month
+- Additional pages in the future: $150-300 each
+
+Timeline:
+- First draft ready for your review: 2-3 business days
+- Revisions and final version: 1-2 business days after feedback
+- Total: About 1 week from start to live
+
+What I Still Need From You:
+- Domain name (the URL you want, like tidyupjax.com)
+- Phone number for the website
+- Email address where contact form submissions should go (you'll receive an instant email notification every time someone fills out the contact form)
+- Any social media links (Instagram, Facebook, etc.) - if you have them
+- Do you have any photos of your team, trucks, or properties you service? Real photos build more trust than stock images, but I can work with what we have.
+
+Let me know which design direction you prefer, and I'll refine it based on your feedback.
+
+Best,
+Charles

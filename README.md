@@ -20,9 +20,11 @@ tidyup/
 ├── js/
 │   └── main.js             # JavaScript functionality
 ├── assets/
-│   ├── images/             # Image assets (favicon, logo, og-image)
-│   ├── TidyUp.pdf          # Brand assets
-│   └── Mockup-New.jpg      # Design mockup
+│   └── images/
+│       ├── logo.svg        # Main logo (color version)
+│       ├── logo-white.svg  # Logo for dark backgrounds
+│       ├── TidyUp.pdf      # Original brand assets
+│       └── Mockup-New.jpg  # Design mockup reference
 ├── netlify.toml            # Netlify configuration
 ├── CLAUDE.md               # Project guidelines and standards
 └── README.md               # This file
@@ -59,11 +61,53 @@ This site is deployed on Netlify.
 1. Go to [app.netlify.com](https://app.netlify.com)
 2. Drag the project folder to deploy
 
-### Form Handling
+## Contact Form Setup (Netlify Forms)
 
-Contact form submissions are handled automatically by Netlify Forms:
-- Submissions appear in Netlify dashboard under Forms > contact
-- Configure email notifications in Site Settings > Forms > Form notifications
+The contact form uses Netlify Forms for handling submissions. This is already configured in the HTML.
+
+### Current Setup
+
+The form includes:
+- `data-netlify="true"` - Enables Netlify Forms
+- `netlify-honeypot="bot-field"` - Spam protection
+- Hidden form-name field for Netlify processing
+
+When someone submits the form:
+1. Netlify captures and stores the submission
+2. Data appears in the Netlify dashboard under **Forms > contact**
+3. Email notifications are sent (if configured)
+
+### How to Set Up Email Notifications
+
+Once the site is live, configure email notifications:
+
+1. Go to [app.netlify.com](https://app.netlify.com)
+2. Select the site (e.g., tidyup-valet)
+3. Navigate to **Forms** in the sidebar
+4. Click **Form notifications**
+5. Click **Add notification** → **Email notification**
+6. Enter the recipient email address
+7. Save
+
+The client will now receive an instant email every time someone fills out the contact form.
+
+### Additional Notification Options
+
+| Option | Description |
+|--------|-------------|
+| **Multiple recipients** | Add multiple email addresses to notify client + backup |
+| **Slack notifications** | Send form submissions to a Slack channel |
+| **Webhook** | Connect to CRM, Zapier, or other automation tools |
+| **Outgoing webhook** | POST form data to any URL |
+
+### Form Submission Limits
+
+Netlify Free Tier includes:
+- 100 form submissions/month
+- Unlimited forms
+- Spam filtering included
+
+If the client needs more submissions, Netlify Pro ($19/month) includes 1,000 submissions/month.
 
 ## Technology Stack
 
