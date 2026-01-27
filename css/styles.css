@@ -553,6 +553,33 @@ p:last-child {
     color: var(--color-gray-400);
 }
 
+/* Logo Images */
+.logo-img {
+    height: 50px;
+    width: auto;
+    transition: var(--transition-fast);
+}
+
+.logo-img:hover {
+    transform: scale(1.02);
+}
+
+.footer-logo-img {
+    height: 60px;
+    width: auto;
+    margin-bottom: var(--space-md);
+}
+
+@media (min-width: 768px) {
+    .logo-img {
+        height: 60px;
+    }
+
+    .footer-logo-img {
+        height: 70px;
+    }
+}
+
 /* ============================================
    HERO
    ============================================ */

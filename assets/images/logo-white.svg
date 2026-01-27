@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200">
+  <!-- TIDY UP Logo - White Version for Dark Backgrounds -->
+  <defs>
+    <style>
+      .text-white { fill: #FFFFFF; font-family: 'Arial Black', 'Helvetica', sans-serif; font-weight: 900; }
+      .green { fill: #1D8547; }
+      .gold { fill: #E8B931; }
+    </style>
+  </defs>
+
+  <!-- T -->
+  <text x="20" y="70" class="text-white" font-size="72">T</text>
+
+  <!-- Hand with trash bag (replacing I) -->
+  <g transform="translate(75, 10)">
+    <!-- Gold glove/hand -->
+    <path class="gold" d="M25,25 C30,20 40,20 45,25 L50,35 C52,40 50,45 45,48 L40,50 L38,45 L35,55 L25,55 L22,45 L20,50 L15,48 C10,45 8,40 10,35 L15,25 C18,22 22,22 25,25Z"/>
+    <!-- Green trash bag -->
+    <ellipse class="green" cx="32" cy="75" rx="22" ry="28"/>
+    <path class="green" d="M20,50 Q32,45 44,50 L42,55 Q32,52 22,55 Z"/>
+  </g>
+
+  <!-- DY -->
+  <text x="130" y="70" class="text-white" font-size="72">DY</text>
+
+  <!-- Trash bin (forms U shape) - White strokes -->
+  <g transform="translate(50, 85)">
+    <!-- Bin rim -->
+    <ellipse fill="none" stroke="#FFF" stroke-width="3" cx="50" cy="8" rx="45" ry="8"/>
+    <!-- Bin body with stripes -->
+    <path fill="none" stroke="#FFF" stroke-width="3" d="M8,8 L15,75 L85,75 L92,8"/>
+    <!-- Vertical stripes -->
+    <line x1="20" y1="12" x2="22" y2="72" stroke="#FFF" stroke-width="2"/>
+    <line x1="35" y1="10" x2="36" y2="73" stroke="#FFF" stroke-width="2"/>
+    <line x1="50" y1="10" x2="50" y2="74" stroke="#FFF" stroke-width="2"/>
+    <line x1="65" y1="10" x2="64" y2="73" stroke="#FFF" stroke-width="2"/>
+    <line x1="80" y1="12" x2="78" y2="72" stroke="#FFF" stroke-width="2"/>
+  </g>
+
+  <!-- P -->
+  <text x="155" y="155" class="text-white" font-size="72">P</text>
+
+  <!-- VALET TRASH SERVICE tagline -->
+  <text x="200" y="188" class="text-white" font-size="18" text-anchor="middle" letter-spacing="3">VALET TRASH SERVICE</text>
+</svg>
