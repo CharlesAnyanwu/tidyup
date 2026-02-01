@@ -15,6 +15,7 @@ A modern, high-performance landing website for Tidy Up Valet Trash Service, serv
 ```
 tidyup/
 ├── index.html              # Main HTML file
+├── option_C_backup.html    # Backup of Option C design (restore by copying to index.html)
 ├── css/
 │   └── styles.css          # Main stylesheet (Industrial Clean design)
 ├── js/
