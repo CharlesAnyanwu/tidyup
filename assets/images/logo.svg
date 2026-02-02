@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200">
-  <!-- TIDY UP Logo -->
+  <!-- TIDY UP Logo - Jacksonville Jaguars Colors -->
   <defs>
     <style>
       .text-black { fill: #000000; font-family: 'Arial Black', 'Helvetica', sans-serif; font-weight: 900; }
-      .green { fill: #1D8547; }
-      .gold { fill: #E8B931; }
+      .teal { fill: #006778; }
+      .gold { fill: #D7A22A; }
     </style>
   </defs>
 
@@ -15,9 +15,9 @@
   <g transform="translate(75, 10)">
     <!-- Gold glove/hand -->
     <path class="gold" d="M25,25 C30,20 40,20 45,25 L50,35 C52,40 50,45 45,48 L40,50 L38,45 L35,55 L25,55 L22,45 L20,50 L15,48 C10,45 8,40 10,35 L15,25 C18,22 22,22 25,25Z"/>
-    <!-- Green trash bag -->
-    <ellipse class="green" cx="32" cy="75" rx="22" ry="28"/>
-    <path class="green" d="M20,50 Q32,45 44,50 L42,55 Q32,52 22,55 Z"/>
+    <!-- Teal trash bag -->
+    <ellipse class="teal" cx="32" cy="75" rx="22" ry="28"/>
+    <path class="teal" d="M20,50 Q32,45 44,50 L42,55 Q32,52 22,55 Z"/>
   </g>
 
   <!-- DY -->
@@ -40,6 +40,8 @@
   <!-- P -->
   <text x="155" y="155" class="text-black" font-size="72">P</text>
 
-  <!-- VALET TRASH SERVICE tagline -->
-  <text x="200" y="188" class="text-black" font-size="18" text-anchor="middle" letter-spacing="3">VALET TRASH SERVICE</text>
+  <!-- VALET TRASH SERVICE tagline - TRASH in teal -->
+  <text x="200" y="188" font-family="'Arial Black', 'Helvetica', sans-serif" font-weight="900" font-size="18" text-anchor="middle" letter-spacing="3">
+    <tspan fill="#000000">VALET </tspan><tspan fill="#006778">TRASH</tspan><tspan fill="#000000"> SERVICE</tspan>
+  </text>
 </svg>
