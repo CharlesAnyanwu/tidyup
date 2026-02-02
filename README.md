@@ -15,36 +15,20 @@ A modern, high-performance landing website for Tidy Up Valet Trash Service, serv
 ```
 tidyup/
 ├── index.html              # Main HTML file
-├── option_C_backup.html    # Backup of Option C design (restore by copying to index.html)
 ├── css/
 │   └── styles.css          # Main stylesheet (Industrial Clean design)
 ├── js/
 │   └── main.js             # JavaScript functionality
 ├── assets/
 │   └── images/
-│       ├── JC_1.png        # Logo (green version)
-│       ├── JC_1_teal.png   # Logo (Jacksonville Jaguars teal version)
-│       ├── JC_2.png        # Logo wireframe variant
-│       ├── COLOR.png       # Logo color reference
-│       ├── logo.svg        # SVG logo (color version)
-│       ├── logo-white.svg  # SVG logo (white for dark backgrounds)
+│       ├── logo.svg        # Main logo (color version)
+│       ├── logo-white.svg  # Logo for dark backgrounds
 │       ├── TidyUp.pdf      # Original brand assets
 │       └── Mockup-New.jpg  # Design mockup reference
 ├── netlify.toml            # Netlify configuration
 ├── CLAUDE.md               # Project guidelines and standards
 └── README.md               # This file
 ```
-
-## Logo Recoloring
-
-To change the logo colors (e.g., green to teal):
-
-1. Go to https://www.imgonline.com.ua/eng/replace-color.php
-2. Upload the PNG logo file
-3. Replace the source color with the target color:
-   - Green (#1D8547) → Jaguars Teal (#136677)
-   - Gold (#E8B931) → Jaguars Gold (#D7A22A)
-4. Download and save with a descriptive name (e.g., JC_1_teal.png)
 
 ## Quick Start
 

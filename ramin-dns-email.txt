@@ -1,0 +1,45 @@
+Hi Ramin,
+
+Your website is ready and looks great. You can preview it here:
+https://valettrash.netlify.app
+
+To make it live at VALETTRASH.ORG, I need you to update your domain settings.
+
+
+WHAT YOU NEED TO DO
+───────────────────
+Log into wherever you bought VALETTRASH.ORG (GoDaddy, Namecheap, Google Domains, etc.) and change the nameservers to these:
+
+    dns1.p10.nsone.net
+    dns2.p10.nsone.net
+    dns3.p10.nsone.net
+    dns4.p10.nsone.net
+
+That's it. Save the changes and the site will go live within a few hours (sometimes faster).
+
+
+IF YOU'RE NOT SURE HOW
+──────────────────────
+Send me your registrar login info and I can do it for you. Or let me know which company you used to buy the domain and I'll send you step-by-step instructions.
+
+
+WHAT'S INCLUDED
+───────────────
+• Website hosted free (no monthly fees)
+• SSL certificate (the padlock icon) - included
+• Contact form sends emails directly to tidyup@valettrash.org
+• Mobile-friendly design
+
+
+STILL NEEDED FROM YOU
+─────────────────────
+• Phone number for the website (currently shows placeholder)
+• Any social media links you want included
+
+
+Once DNS is updated, I'll do a final check and set up the contact form notifications so you get emails when someone reaches out.
+
+Let me know if you have any questions.
+
+Best,
+Charles
